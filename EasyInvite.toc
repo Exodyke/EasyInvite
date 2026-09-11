@@ -1,0 +1,7 @@
+## Interface: 30300
+## Title: [|cffFFFF00Easy|r|cffFF4500Invite|r] by |cffc41f3bExodyke|r
+## Author: Exodyke
+## SavedVariables: EasyInviteDB
+
+EasyInvite.lua
+
